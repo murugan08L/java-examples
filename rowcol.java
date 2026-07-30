@@ -12,5 +12,4 @@ class rowcol{
         }
         System.out.println();
        }
-    }
-}
+     
